@@ -13,5 +13,5 @@ The constituents work synergistically within the human body to achieve the herbâ
 Herbs are chosen by the Phytotherapist to suit the individual.  Potent medicinal substances have the potential to harm as well as heal. It is important, therefore, to avoid self-medicating and always to seek professional individualised herbal treatment from a registered Phytotherapist.
 
 
-![What is Phytotherapy](/images/what_is_phytotherapy.jpg)
-![Herbal medicine](/images/herbal_medicine.jpg)
+![What is Phytotherapy](./images/what_is_phytotherapy.jpg)
+![Herbal medicine](./images/herbal_medicine.jpg)
