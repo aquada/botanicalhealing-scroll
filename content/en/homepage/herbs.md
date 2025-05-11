@@ -1,6 +1,6 @@
 ---
 title: "Herbs"
-weight: 10
+weight: 9
 header_menu: true
 ---
 ![Ointment](/images/herbal_ointment.jpg)
