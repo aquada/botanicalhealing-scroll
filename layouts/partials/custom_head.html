@@ -1,19 +1,44 @@
 <!-- A partial to be overwritten by the user.
      Its content will appear before the closing </head>-tag -->
 
-
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
-<!--
+
+
+     <!-- Some variables to change
+
+     :root {
+  --cover-text-color:#37501a; this is menu text
+  --highlight:#86c440;
+  --highlight-contrast:var(--cover-text-color);
+  --highlight-inverse:var(--cover-text-color);
+  --highlight-inverse-contrast:white;
+  --cover-title-and-description-guard-bg-color:rgba(255, 255, 255, 0.6);
+  --cover-title-text-shadow:white 0px 0px 7px;
+  --sticky-menu-text-color:#9fd067;
+  --section-light-text-color:#3a4145;
+  --section-light-bg-color:#f2efe8;
+  --section-dark-text-color:var(--section-light-bg-color);
+  --section-dark-bg-color:#b80135;
+  --section-uni-quote:grey;
+  --section-uni-code-bg-color:#e0ded7;
+  --single-page-text-color:var(--section-light-text-color);
+  --single-page-bg-color:var(--section-light-bg-color);
+  --footer-color-background:#22343a;
+  --footer-color:#bbc7cc;
+  --ul-li-icon:fa-asterisk
+}
+
+-->
 <style>
 :root {
     /* see variables.scss for more variables*/
 
-    /*
-    --section-light-text-color: #3a4145!important;
-    --section-light-bg-color: #ffdb8c!important;
-    --section-dark-bg-color: #035e00!important;
-    */
+
+    --section-light-text-color: #315800!important;
+    --section-light-bg-color: #fecb5f!important;
+    --section-dark-bg-color: #315800!important;
+    --section-dark-text-color: #fecb5f!important;
 
      /* define list element for unnumbered lists, leave empty for default list element */
      /* fa-asterisk is the default icon if this variable definition is missing completely */
@@ -21,7 +46,6 @@
      --ul-li-icon: ;                /* this sets the default html list icon */
 }
 </style>
--->
 
 <!-- Custom CSS via "custom.css"-file
      If you would rather place your custom CSS into
