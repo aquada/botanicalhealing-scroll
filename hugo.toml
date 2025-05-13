@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Catherine van Dorsten - Registered Phytotherapy Practitioner"
+title = "Dr Catherine van Dorsten - Registered Phytotherapy Practitioner"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -41,7 +41,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Catherine van Dorsten - Registered Phytotherapy Practitioner"
+    title = "Dr Catherine van Dorsten - Registered Phytotherapy Practitioner"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Registered Phytotherapy Practitioner"
@@ -79,7 +79,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "Catherine van Dorsten, phytotherapy, practitioner, natural, medicine,"
+        keywords = "Dr Catherine van Dorsten, phytotherapy, practitioner, natural, medicine,"
 
     [[params.contacts]]
         label = "phone"

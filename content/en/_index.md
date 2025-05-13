@@ -10,7 +10,7 @@ header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Dr Catherine van Dorsten"
-header_subheadline: "Registered Phytotherapy Practitioner"
+header_subheadline: "Registered Phytotherapy Practitioner | BSc CHS, BCM Phyt (UWC) Summa Cum Laude"
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
