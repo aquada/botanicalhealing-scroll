@@ -20,7 +20,7 @@ Phytotherapists prescribe herbs in the form of:
 - Oils (infused with herbs)
 - Gels (aloe gel based)
 
- > 
+
 
 ![What is Phytotherapy](./images/what_is_phytotherapy.jpg)
 ![Herbal medicine](./images/herbal_medicine.jpg)

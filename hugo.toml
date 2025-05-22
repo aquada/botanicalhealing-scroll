@@ -79,7 +79,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "Dr Catherine van Dorsten, phytotherapy, practitioner, natural, medicine,"
+        keywords = "Dr Catherine van Dorsten, phytotherapy, practitioner, natural medicine,"
 
     [[params.contacts]]
         label = "phone"
