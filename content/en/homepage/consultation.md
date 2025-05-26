@@ -21,3 +21,26 @@ Phytotherapy can treat **most conditions** on which patients might consult their
 - As Phytotherapists we are trained to understand herb-drug interactions and can safely treat patients who are using pharmaceutical medication.
 
 
+![HerbalBook](/images/herbal_book.jpg)
+
+##### Fees  
+**Initial Consultation**  
+1 to 1.5 hours – R950  
+
+**Follow-up consultations**   
+60 mins – R600  
+30 mins – R420  
+15 mins – R300  
+
+**Tinctures** (15ml taken per day usually)  
+100ml – R200  
+200ml – R400  
+500ml – R1000  
+
+**Teas** (± 5g taken per day usually)  
+50g – R70  
+100g -- R140   
+
+**Creams or Ointments**  
+50ml – R80  
+100ml – R160  
