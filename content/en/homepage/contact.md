@@ -3,7 +3,7 @@ title: "Contact"
 weight: 12
 header_menu: true
 ---
-![What is Phytotherapy](/images/what_is_phytotherapy.jpg)
+![What is Phytotherapy](/images/hawthorn.png)
 
 {{<contact_list>}}
 
