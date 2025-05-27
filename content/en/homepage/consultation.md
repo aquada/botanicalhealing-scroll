@@ -21,7 +21,6 @@ Phytotherapy can treat **most conditions** on which patients might consult their
 - As Phytotherapists we are trained to understand herb-drug interactions and can safely treat patients who are using pharmaceutical medication.
 
 
-![HerbalBook](/images/herbal_book.jpg)
 
 ##### Fees  
 **Initial Consultation**  

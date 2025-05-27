@@ -13,8 +13,8 @@ Phytotherapists only prescribe whole plant extracts, based on the principle that
 
 Phytotherapists prescribe herbs in the form of:
 - Teas (whole dried herbs)
-- Tablets (powdered dried herbs)
 - Tinctures (alcoholic extracts of whole plants)
+- Tablets (powdered dried herbs)
 - Creams (herbally infused vegetable based carrier cream)
 - Ointments (herbally infused beeswax based)
 - Oils (infused with herbs)
@@ -22,8 +22,6 @@ Phytotherapists prescribe herbs in the form of:
 
 
 
-![What is Phytotherapy](./images/what_is_phytotherapy.jpg)
-![Herbal medicine](./images/herbal_medicine.jpg)
 
 ##### How do herbs work?
 Each herb is unique; it is composed of a distinctive combination of **different active constituents**, and as such has its own identity.
