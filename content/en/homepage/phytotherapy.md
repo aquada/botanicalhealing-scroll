@@ -4,6 +4,7 @@ weight: 1
 header_menu: true
 
 ---
+![What is Phytotherapy?](./images/what_is_phytotherapy.jpg)
 
 Phytotherapy is the practice of **herbal medicine**. Phytotherapists follow a **holistic approach** in the treatment of disease by using herbal prescriptions, diet and advice on lifestyle in the treatment of disease.
 
