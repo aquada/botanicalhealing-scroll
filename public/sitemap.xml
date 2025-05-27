@@ -3,13 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-  </url><url>
-    <loc>//localhost:1313/herbs/</loc>
-  </url><url>
-    <loc>//localhost:1313/license/</loc>
-  </url><url>
-    <loc>//localhost:1313/services/</loc>
-  </url><url>
-    <loc>//localhost:1313/legal/</loc>
+    <lastmod>2025-05-22T13:17:41+02:00</lastmod>
   </url>
 </urlset>
