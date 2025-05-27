@@ -7,8 +7,7 @@ header_menu: true
 {{<contact_list>}}
 
 Consultations by appointment only.  
-Let us get in touch!
-
+I look forward to hearing from you!
 
 
 ![What is Phytotherapy](/images/hawthorn.png)
