@@ -13,7 +13,7 @@ header_menu: true
 As a Registered Phytotherapist I am **trained in the same diagnostic skills as conventional doctors** and combine this knowledge with a holistic understanding of disease.
 - The cause of the disease is treated, not only the symptoms. Herbs are used to restore balance in the body and mobilise the body's innate healing powers.
 - The first consultation with me will generally take 1 to 1.5 hours.
-- I will take notes on the your medical history and perform physical examinations as deemed appropriate.
+- I will take notes on your medical history and perform physical examinations as deemed appropriate.
 - The treatment will be tailored to suit you as an individual. It will include a herbal prescription and may include advice on diet and lifestyle.
 - The second appointment may follow in two to three weeks, subsequent consultations occurring monthly or as dictated by the health problem.
 
