@@ -73,7 +73,7 @@ enableEmoji = true
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
@@ -83,8 +83,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "phone"
-        value = "+27 827755443"
-        url = "tel:+27 827755443"
+        value = "082 775 5443"
+        url = "tel:+27827755443"
         icon = "fa fa-phone"
 
     [[params.contacts]]
