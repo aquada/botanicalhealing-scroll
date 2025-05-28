@@ -17,8 +17,8 @@ Phytotherapists prescribe herbs in the form of:
 - Teas (whole dried herbs)
 - Tinctures (alcoholic extracts of whole plants)
 - Tablets (powdered dried herbs)
-- Creams (herbally infused vegetable based carrier cream)
-- Ointments (herbally infused beeswax based)
+- Creams (herbally infused vegetable-based carrier cream)
+- Ointments (herbally infused beeswax-based)
 - Oils (infused with herbs)
 - Gels (aloe gel based)
 
