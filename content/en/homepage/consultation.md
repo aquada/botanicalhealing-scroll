@@ -27,10 +27,11 @@ Phytotherapy can treat **most conditions** on which patients might consult their
 
 ##### Fees  
 **Initial Consultation**  
-1 to 1.5 hours – R950  
+1 to 1.5 hours – R1200
 
 **Follow-up consultations**   
-60 mins – R600  
+60 mins – R600
+45 mins – R510 
 30 mins – R420  
 15 mins – R300  
 
