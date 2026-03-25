@@ -52,4 +52,4 @@ First 10 minutes are FREE, and a R200 charge every 15 minutes thereafter.
 100ml – R160  
 
 
-*Please feel free to ask about discounts or a payment plan if you are under financial strain.*
+*Please feel free to ask about payment plans or a discount if you are under financial strain.*
