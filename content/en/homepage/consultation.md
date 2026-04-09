@@ -17,6 +17,7 @@ As a Registered Phytotherapist I am **trained in the same diagnostic skills as c
 - I will take notes on your medical history and perform physical examinations as deemed appropriate.
 - After the consultation, a treatment protocol will be formulated for you consisting of a herbal medicine prescription, diet and lifestyle advice. This will be presented to the you and explained in detail.
 - The treatment will be tailored to suit you as an individual. No two patients receive the same prescription.
+- Your prescription will be couriered to you if you do not live in the area. 
 - The second appointment may follow in two to three weeks, subsequent consultations occurring monthly or as dictated by the health problem.    
 
 ##### What can Phytotherapy treat?
