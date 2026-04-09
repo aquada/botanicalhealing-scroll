@@ -12,9 +12,11 @@ header_menu: true
 
 As a Registered Phytotherapist I am **trained in the same diagnostic skills as conventional doctors** and combine this knowledge with a holistic understanding of disease.
 - The cause of the disease is treated, not only the symptoms. Herbs are used to restore balance in the body and mobilise the body's innate healing powers.
-- The first consultation with me will generally take 1 to 1.5 hours.
+- The first consultation with me will generally take 1 to 1.5 hours. 
+- I consult both in person in my practice in Greyton as well as online.
 - I will take notes on your medical history and perform physical examinations as deemed appropriate.
-- The treatment will be tailored to suit you as an individual. It will include a herbal prescription and may include advice on diet and lifestyle. No two patients receive the same prescription.
+- After the consultation, a treatment protocol will be formulated for you consisting of a herbal medicine prescription, diet and lifestyle advice. This will be presented to the you and explained in detail.
+- The treatment will be tailored to suit you as an individual. No two patients receive the same prescription.
 - The second appointment may follow in two to three weeks, subsequent consultations occurring monthly or as dictated by the health problem.    
 
 ##### What can Phytotherapy treat?
@@ -27,7 +29,7 @@ Phytotherapy can treat **most conditions** on which patients might consult their
 
 ##### Fees  
 **Initial Consultation**  
-1 to 1.5 hours – R1200  
+1 to 1.5 hours (followed by time for formulation of treatment protocol) – R1200  
 *Less complex cases will require less time and be charged accordingly.*  
 
 **Follow-up consultations**   
